@@ -26,8 +26,8 @@ P{
 
 .btn {
     display: inline-block;
-    background: #0f1e25;
-    color: #f8f8f8;
+    background: #f8f8f8;
+    color: #0f1e25;
     text-decoration: none;
     padding: 1em 2em;
     border: 1px solid #666666;
@@ -35,8 +35,8 @@ P{
 }
 
 .btn:hover{
-    background: #f8f8f8;
-    color: #0f1e25;
+    background: #0f1e25;
+    color: #f8f8f8;
 }
 
 #banner {
@@ -68,7 +68,7 @@ P{
 
 #section-a{
     background: #f8f8f8;
-    color: #666666;
+    color: #696969;
     padding-bottom: 2em;
 }
 
